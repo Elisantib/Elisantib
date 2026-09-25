@@ -63,23 +63,5 @@ Soy desarrolladora web Full Stack. Desarrollo, mantengo y automatizo plataformas
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **Reconocimiento facial** (Anelys) | Sistema de reconocimiento facial en tiempo real, arquitectura cliente-servidor | PHP (MVC), MySQL, face-api.js |
-| **[Dataverse-Chat](https://github.com/Elisantib)** | SPA de visualización de datos integrada con la API de OpenAI | JavaScript, DOM, Web APIs |
-| **[Text-Analyzer](https://github.com/Elisantib)** | Herramienta de análisis de texto con lógica estadística | JavaScript |
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elisantib&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisantib&layout=compact&hide_border=true" alt="Lenguajes más usados"/>
-</p>
-
----
 
 <p align="center">📫 ¿Hablamos? Escríbeme a <b>elisa.asp94@gmail.com</b> o conectemos en <a href="https://www.linkedin.com/in/elisa-santibanez">LinkedIn</a>.</p>
